@@ -1,5 +1,4 @@
-Basic base10 to trytes alphabet converter. 
-For educational purposes only.
+Basic base10 to trytes alphabet converter.
 
 usage:
 
