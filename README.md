@@ -7,8 +7,5 @@ usage:
 
 `python3 trytes.py 4710`
 
-Fix:
-- Divergence issue when dividing big numbers
-
 Improvements:
 - Convert ASCII to trytes alphabet 
